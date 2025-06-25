@@ -57,7 +57,7 @@
 点此查看我们的[演示视频](https://www.bilibili.com/video/BV1pm4y1z7Gm/) !
 
 ## 环境配置
-以下指令需在 Python 版本大于3.8的环境中执行。  
+以下指令需在 Python 版本大于Python 3.8 不要超过3.10.11 因为Numba 0.56.4 仅支持 Python 3.7 到 3.10，版本太新，导致安装失败。
 
 ### Windows/Linux/MacOS等平台通用方法
 下列方法任选其一。
